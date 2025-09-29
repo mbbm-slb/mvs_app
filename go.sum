@@ -1,4 +1,8 @@
 github.com/mbbm-slb/mvs_lib_alpha v0.1.1 h1:SaN5IQnJEC2q5/2NCWIx6Xplgw1bIFk+nvnTF0Vh0xA=
 github.com/mbbm-slb/mvs_lib_alpha v0.1.1/go.mod h1:9t7rRHNgglYWxyLxkPcFMbQoh9sLJztdRZTrnH6DIJw=
+github.com/mbbm-slb/mvs_lib_beta v0.1.0 h1:echTtGSXVdFqrnqKt35au+W0e523rgSmfNyds9UGJe8=
+github.com/mbbm-slb/mvs_lib_beta v0.1.0/go.mod h1:IFyKVBEcqsHk4GQYm+zgxpFz3ONrxOmOt0xKyQJf7xc=
 github.com/mbbm-slb/mvs_lib_gamma v0.2.0 h1:0+EKZi5/s9dKuvrvDGgx9RPtVE0ARhQfOq03zonxDX4=
 github.com/mbbm-slb/mvs_lib_gamma v0.2.0/go.mod h1:93EfcEidwfcw5+GKwOqItTQHEzsedRvsdJzulY+LqUk=
+github.com/mbbm-slb/mvs_lib_gamma v0.3.0 h1:/5E7wo9VDpxFxytot+50hA9US7UQbii4a5VX/x4NhRs=
+github.com/mbbm-slb/mvs_lib_gamma v0.3.0/go.mod h1:93EfcEidwfcw5+GKwOqItTQHEzsedRvsdJzulY+LqUk=
