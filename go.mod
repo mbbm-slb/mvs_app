@@ -11,3 +11,5 @@ require (
 	github.com/mbbm-slb/mvs_lib_gamma v0.2.0 // indirect
 	github.com/mbbm-slb/mvs_lib_gamma/v2 v2.0.1 // indirect
 )
+
+replace github.com/mbbm-slb/mvs_lib_alpha => ../mvs_lib_alpha
